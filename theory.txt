@@ -1,0 +1,34 @@
+
+React:
+React is a js librabry used for building UI
+It is not a framework. React knows only one thing that it is to create awesome UI.
+
+------------------------------------------------------------------------------------
+History of React
+- React was first designed by jordon walke who was part of the facebook team
+- It was first deployed for facebook's news feed around 2011
+- In 2013, React was open sourced at JS conference.
+
+-------------------------------------------------------------------------------------
+Why React?
+- it has huge commonity on github
+- component Based Architecture
+
+-------------------------------------------------------------------------------------
+ReactJS Advantages
+- React uses a declarative approach
+- Reusable code
+- component based approach
+- DOM updates are handles gracefully
+- React is designed for speed, speed for implementing the application, simplicity and scalability
+
+--------------------------------------------------------------------------------------
+Install React
+- go to npmjs.com and download and install
+
+-----------------------------------------------------------------------------------------------
+NPM START
+- package.json 
+- in src-> index.js 
+
+
